@@ -19,17 +19,19 @@ For å bruke pull requests trenger man et verktøy som legger til rette for å d
 
 _Mål_: bedre kodekvalitet, forhindre feil
 
-## 1. Lag en pull request
+## Pull requests med Visual Studio og Azure DevOps
 
 [Review code with pull requests]
 
-### Først - lag en feature branch
+### 1. Lag en pull request
+
+#### Først - lag en feature branch
 
 - `Branches` -> `New branch` -> `user\<user>\<branch>`
 - Lag feature på vanlig måte
 - Husk - man kan jobbe på flere features samtidig ved å bytte mellom grener
 
-### Push endringene og lag pull request
+#### Push endringene og lag pull request
 
 - Høyreklikk -> `Push branch`
 - Lag pull request ved å trykke på lenken
@@ -39,7 +41,7 @@ _Mål_: bedre kodekvalitet, forhindre feil
 - assign reviewers (en eller flere)
 - nå er din jobb i beste fall ferdig
 
-## 2. Review pull request
+### 2. Review pull request
 
 Gjøres av andre enn de som har laget pull requesten. Alle som er satt som "Reviewer" kan gjøre dette.
 
@@ -54,14 +56,14 @@ Gjøres av andre enn de som har laget pull requesten. Alle som er satt som "Revi
 
 Her kan det bli flere iterasjoner.
 
-## 2.1 Oppdater pull request
+### 2.1 Oppdater pull request
 
 Dersom det trengs endringer i pull requesten:
 
 - For å oppdatere pull requesten oppdaterer man koden lokalt og pusher.
 - Det er også mulig å gjøre små endringer via web-grensesnittet: `View in file explorer` -> `Edit`
 
-## 3. Complete pull request
+### 3. Complete pull request
 
 Når man er klar til å merge med master:
 
