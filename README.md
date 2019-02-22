@@ -4,7 +4,7 @@
 
 ## Introduksjon
 
-[What's Pull Request Flow All About?]
+[What is Pull Request Flow All About?]
 
 Hva er en pull request:
 
@@ -115,9 +115,9 @@ Et par andre ting angående pull requests:
 
 - [Trunk-based Development vs. Git Flow]
 - [Review code with pull requests]
-- [What's Pull Request Flow All About?]
+- [What is Pull Request Flow All About?]
 
 [Trunk-based Development vs. Git Flow]: https://codeburst.io/trunk-based-development-vs-git-flow-a0212a6cae64
 [Review code with pull requests]: https://docs.microsoft.com/en-us/azure/devops/repos/git/pull-requests?view=azure-devops&tabs=new-nav
-[What's Pull Request Flow All About?]: https://www.netguru.com/blog/pull-request-flow-pm-perspective# kollokvie-pull-requests
+[What is Pull Request Flow All About?]: https://www.netguru.com/blog/pull-request-flow-pm-perspective# kollokvie-pull-requests
 Litt tekst angående kollokvie om pull requests
