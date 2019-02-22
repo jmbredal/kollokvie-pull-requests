@@ -1,6 +1,6 @@
 # Pull request flow
 
-- John-Magne Bredal
+_John-Magne Bredal_
 
 ## Introduksjon
 
