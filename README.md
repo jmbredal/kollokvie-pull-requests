@@ -1,4 +1,4 @@
-# Pull requests i Hemit Systemutvikling
+# Pull request flow
 
 - John-Magne Bredal
 
